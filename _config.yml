@@ -1,6 +1,6 @@
 dir: rtl
-lang: ar
-theme: jekyll-theme-modernist
+language: ar
+theme: daattali/beautiful-jekyll
 show_downloads: false
 title: خالد
 description: تجربة الموقع
