@@ -1,2 +1,2 @@
-# MrKhalidJ.github.io
-welcome to my new site. this is an experiment to better understand how github pages works.
+# مرحبا بكم في موقعي
+هذا الموقع عبارة عن تجربة لرؤية كيفية تعامل الثيم مع اللغة العربية
