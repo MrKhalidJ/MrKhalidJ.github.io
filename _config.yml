@@ -1,7 +1,7 @@
 dir: rtl
 language: ar
-#remote_theme: daattali/beautiful-jekyll
+remote_theme: daattali/beautiful-jekyll
 show_downloads: false
 title: خالد
 description: حلول تقنية المعلومات
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
