@@ -3,5 +3,5 @@ language: ar
 #remote_theme: daattali/beautiful-jekyll
 show_downloads: false
 title: خالد
-description: تجربة الموقع
+description: حلول تقنية المعلومات
 theme: jekyll-theme-slate
