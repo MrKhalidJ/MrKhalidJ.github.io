@@ -1,6 +1,7 @@
 dir: rtl
 language: ar
-theme: daattali/beautiful-jekyll
+#theme: daattali/beautiful-jekyll
+remote_theme: daattali/beautiful-jekyll
 show_downloads: false
 title: خالد
 description: تجربة الموقع
